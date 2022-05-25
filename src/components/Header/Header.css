@@ -1,0 +1,17 @@
+.header{
+    background-color: pink;
+    padding: 15px;
+}
+.header nav a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 4px 7px;
+}
+.header nav a:hover{
+    color: rgba(22, 22, 22, 0.63);
+    font-style: italic;
+}
