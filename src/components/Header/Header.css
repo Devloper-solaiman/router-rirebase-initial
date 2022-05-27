@@ -15,3 +15,12 @@
     color: rgba(22, 22, 22, 0.63);
     font-style: italic;
 }
+.sign-out{
+    background-color: rgba(248, 4, 45, 0.753);
+    color: black;
+    font-size: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-left: 20px;
+
+}
